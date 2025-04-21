@@ -1,7 +1,5 @@
 <h1 align="center">🔗 Link Bypasser</h1>
 
----
-
 ## 🧠 Descripción
 
 **Link Bypasser** es una herramienta creada para desenmascarar URLs acortadas, redireccionadas o disfrazadas.  
@@ -54,8 +52,6 @@ python3 link_bypasser.py -f lista.txt
 ### ▶️ Ejecución básica
 
 <img src="https://i.ibb.co/gbZ14QrN/screenshot-21042025-010601.png" width="800" alt="Ejemplo de ejecución"/>
-
----
 
 ---
 

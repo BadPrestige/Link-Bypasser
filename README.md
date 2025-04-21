@@ -67,9 +67,9 @@ python3 link_bypasser.py -f lista.txt
 ## 🎯 Ejemplo en archivo `.txt`
 
 ```
-https://shorturl.at/FhBmk [Google.com]
-https://shorturl.at/QOnDQ [Twitter.com]
-https://shorturl.at/H4tjL [Instagram.com]
+https://shorturl.at/FhBmk # [Google.com]
+https://shorturl.at/QOnDQ # [Twitter.com]
+https://shorturl.at/H4tjL # [Instagram.com]
 ```
 
 ---
